@@ -1,0 +1,15 @@
+.App{
+   text-align: center;
+    margin: 150px 350px ;
+    height: 300px;
+    width: 40%;
+    border: 0.1px solid gray;
+    border-radius: 4px 4px ;
+    box-shadow: 5px 5px 5px 5px lightgray;
+
+ 
+}
+button{
+  background-color: blue;
+  color: white;
+}
